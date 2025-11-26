@@ -13,5 +13,5 @@ Notebooks I am using to prepare for my machine learning final
 <p> This notebook shows the simplicity and beauty of data loaders in pytorch </p>
 
 <h2 id="TheEnd"> :checkered_flag: The End </h2>
-<a href="[url](https://github.com/b3nhaddad)">My Profile</a>
+<a href="https://github.com/b3nhaddad">My Profile</a>
 
