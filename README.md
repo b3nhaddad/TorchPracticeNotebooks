@@ -20,6 +20,12 @@ Notebooks I am using to prepare for my machine learning final
 Notebook 2
 </a>
 
+<h2 id="Notebooke"> :pencil: Min/Max pooling for CNNs</h2>
+<p> Uses openCV and array slicing to buld a Min and Max pooling layer</p>
+<a href="https://github.com/b3nhaddad/TorchPracticeNotebooks/blob/main/CV_Max_Min_pool.ipynb">
+Notebook 3
+</a>
+
 <h2 id="TheEnd"> :checkered_flag: The End </h2>
 <a href="https://github.com/b3nhaddad">My Profile</a>
 
