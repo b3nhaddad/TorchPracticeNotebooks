@@ -1,8 +1,9 @@
+<p id="top"></p>
 # Torch Practice Notebooks
 Notebooks I am using to prepare for my machine learning final
 
 <details open="open">
-  <summary id="top">Table of Contents</summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li><a href="#pre"> -- Prepocessing --</a></li>
     <ol type="a">
