@@ -1,6 +1,6 @@
 # Torch Practice Notebooks
 <p id="top"></p>
-<br><b>I hand picked these mojis this is not AI slop</b></br>
+<br><h3><b>I hand picked these mojis this is not AI slop</b></h3></br>
 Notebooks I am using to prepare for my machine learning final
 
 <details open="open">
