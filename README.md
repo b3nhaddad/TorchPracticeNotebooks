@@ -2,7 +2,7 @@
 Notebooks I am using to prepare for my machine learning final
 
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary id="top">Table of Contents</summary>
   <ol>
     <li><a href="#pre"> -- Prepocessing --</a></li>
     <ol type="a">
@@ -40,4 +40,6 @@ Notebook 3
 
 <h2 id="TheEnd"> :checkered_flag: The End </h2>
 <a href="https://github.com/b3nhaddad">My Profile</a>
+
+<a href="#top">:point_up_2:</a>
 
