@@ -1,5 +1,5 @@
-<p id="top"></p>
 # Torch Practice Notebooks
+<p id="top"></p>
 Notebooks I am using to prepare for my machine learning final
 
 <details open="open">
